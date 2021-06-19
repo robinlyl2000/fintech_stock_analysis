@@ -9,7 +9,7 @@
 3. **App撰寫工具** : **<font color="red">Flutter</font>**
 4. **App架構** : 
     <p align="center">  
-        <img height="50%" width="50%" src="https://i.imgur.com/1c5R6L0.png">
+        <img height="70%" width="70%" src="https://i.imgur.com/1c5R6L0.png">
     </p>
 ---
 ## App首頁
@@ -29,7 +29,7 @@
     ```
 * 頁面展示 : 
     <p align="center">  
-        <img height="50%" width="50%" src="https://i.imgur.com/h6AGYx8.png">
+        <img height="30%" width="30%" src="https://i.imgur.com/h6AGYx8.png">
     </p>
 
     > * 透過畫面中的兩個按鈕，可以各自前往「查詢股票」與「自選清單」頁面
